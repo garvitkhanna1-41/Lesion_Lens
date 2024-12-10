@@ -1,2 +1,2 @@
-python-73.12
+python-3.12
 
